@@ -1,0 +1,31 @@
+Develop a Sales Data Analysis using Power Bi and Excel.
+
+Purpose: Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
+Description: In this project, I dived into a large sales dataset to extract valuable insights. I explored sales trends over time, identified the best-selling products, calculated revenue metrics such as total sales and profit margins, and created visualizations to present your findings effectively. This project showcases my ability to manipulate and derive insights from large datasets, enabling me to make data-driven recommendations for optimizing sales strategies.
+
+Insights
+December had the highest Sum of Sales ($4,613,443.34) and was 153.17% higher than January, which had the lowest Sum of Sales at $1,822,256.73.﻿﻿
+
+Sum of Sales and total Count of Order are positively correlated with each other.
+
+December accounted for 13.38% of Sum of Sales.
+
+Sum of Sales and Count of Order diverged the most when the Month was December, when Sum of Sales were $4,589,439.34 higher than Count of Order.
+
+Across all 24 Hours, Count of Order ranged from 804 to 12,377.
+
+San Francisco generated the highest amount if sales.
+
+MacBook Pro Laptop generated the highest sale and AAA batteries generated the least sale.
+Interestingly, in term of quantities sold per product, AAA batteries is the most sold
+
+The peak hour of the day is 7pm followed by 12pm.
+
+Recommendations:
+-Consider promoting and expanding the product line around the successful "MacBook Pro Laptop."
+
+- Review the marketing and pricing strategy for the "AAA batteries (4-pack)" to improve its performance.
+
+- Focus on San Francisco as a key market and work on replicating successful strategies in other cities.
+
+- Plan special promotions and strategies for December, and investigate the reasons behind the revenue dip in January to address any challenges.
